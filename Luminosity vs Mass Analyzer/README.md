@@ -21,6 +21,7 @@ M = Mass (in solar masses)
 a ≈ 3.5 for main-sequence stars
 
 This script reads data from a CSV file, performs a log-log power-law fit, and plots both linear and log-log graphs for visualization.
+
 ---
 ## 🚀 Features
 
@@ -33,6 +34,7 @@ a
  to find constants k and a
 ✅ Saves both linear and log-log plots as .png images
 ✅ Compares the fitted exponent with the theoretical value (≈3.5)
+
 ---
 ## 📂 Example CSV Format
 
@@ -46,6 +48,7 @@ ProximaCentauri,0.12,0.0017
 Vega,2.14,40
 Rigel,18,120000
 Betelgeuse,20,90000
+
 ---
 ## 💡 Tip:
 Make sure there are commas (,) between values, not spaces or tabs!
@@ -97,7 +100,7 @@ How to plot and save figures with Matplotlib
 
 How to write structured and modular Python programs
 
-
+---
 
 
 
