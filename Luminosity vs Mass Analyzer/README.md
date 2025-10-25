@@ -31,8 +31,8 @@ This script reads data from a CSV file, performs a log-log power-law fit, and pl
 L=kMa
 L=kM
 a
- to find constants k and a
-✅ Saves both linear and log-log plots as .png images
+ to find constants k and a\
+✅ Saves both linear and log-log plots as .png images\
 ✅ Compares the fitted exponent with the theoretical value (≈3.5)
 
 ---
@@ -47,7 +47,7 @@ AlphaCentauriA,1.1,1.5\
 ProximaCentauri,0.12,0.0017\
 Vega,2.14,40\
 Rigel,18,120000\
-Betelgeuse,20,90000\
+Betelgeuse,20,90000
 
 ---
 ## 💡 Tip:
