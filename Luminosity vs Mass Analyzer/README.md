@@ -1,9 +1,9 @@
-##🌟 Luminosity vs Mass Analyzer
+# 🌟 Luminosity vs Mass Analyzer
 👨‍💻 Author
 
 Md. Mahiuddin Zilani
-
-##🧠 Overview
+---
+## 🧠 Overview
 
 This Python project analyzes the relationship between a star’s mass and luminosity using real or sample data.
 In stellar physics, stars roughly follow a power-law relation:
@@ -21,8 +21,8 @@ M = Mass (in solar masses)
 a ≈ 3.5 for main-sequence stars
 
 This script reads data from a CSV file, performs a log-log power-law fit, and plots both linear and log-log graphs for visualization.
-
-##🚀 Features
+---
+## 🚀 Features
 
 ✅ Reads data from a CSV file (e.g. stars_data.csv)
 ✅ Checks for missing or invalid data automatically
@@ -33,8 +33,8 @@ a
  to find constants k and a
 ✅ Saves both linear and log-log plots as .png images
 ✅ Compares the fitted exponent with the theoretical value (≈3.5)
-
-##📂 Example CSV Format
+---
+## 📂 Example CSV Format
 
 Your CSV file must contain the following columns:
 
@@ -46,10 +46,11 @@ ProximaCentauri,0.12,0.0017
 Vega,2.14,40
 Rigel,18,120000
 Betelgeuse,20,90000
-💡 Tip:
+---
+## 💡 Tip:
 Make sure there are commas (,) between values, not spaces or tabs!
 
-⚙️ How to Run
+## ⚙️ How to Run
 🪜 Step-by-Step
 
 Prepare your CSV file
@@ -69,7 +70,7 @@ luminosity_mass_linear.png
 
 luminosity_mass_loglog.png
 
-📊 Output Graphs
+## 📊 Output Graphs
 🔹 Linear Scale
 
 Shows the general trend of luminosity increasing rapidly with mass.
@@ -82,7 +83,7 @@ Plot Type	Example Output
 Linear	
 
 Log-Log	
-##📚 Learning Outcome
+## 📚 Learning Outcome
 
 By exploring this project, you’ll learn:
 
