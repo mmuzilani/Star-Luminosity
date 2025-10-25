@@ -40,14 +40,14 @@ a
 
 Your CSV file must contain the following columns:
 
-Name,Mass_solar,Luminosity_solar
-Sun,1,1
-Sirius,2.1,25
-AlphaCentauriA,1.1,1.5
-ProximaCentauri,0.12,0.0017
-Vega,2.14,40
-Rigel,18,120000
-Betelgeuse,20,90000
+Name,Mass_solar,Luminosity_solar\
+Sun,1,1\
+Sirius,2.1,25\
+AlphaCentauriA,1.1,1.5\
+ProximaCentauri,0.12,0.0017\
+Vega,2.14,40\
+Rigel,18,120000\
+Betelgeuse,20,90000\
 
 ---
 ## 💡 Tip:
